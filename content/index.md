@@ -1,6 +1,10 @@
 ---
 title: Voice Mate Documentation
+tags:
+  - getting_started
 ---
+
+
 
 Voice Mate is an innovative app that helps you enhance your voice communication skills. Whether you're a public speaker, presenter, or just want to improve your everyday communication, Voice Mate has you covered.
 
