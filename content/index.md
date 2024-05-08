@@ -6,6 +6,22 @@ Voice Mate is an innovative app that helps you enhance your voice communication 
 
 ## Getting Started
 ![[email.png]]
+```python title="TEst"
+def add_numbers(num1, num2):
+    """
+    Adds two numbers and returns the result.
+    
+    Args:
+        num1 (int or float): The first number.
+        num2 (int or float): The second number.
+    
+    Returns:
+        int or float: The sum of num1 and num2.
+    """
+    return num1 + num2
+
+```
+
 To get started with Voice Mate, follow these steps:
 
 1. **Sign Up**: Visit our [Sign Up page](signup.html) to create your Voice Mate account.
