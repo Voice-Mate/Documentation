@@ -9,7 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <div>
     <a href={baseDir}>
-      <img src="https://raw.githubusercontent.com/Voice-Mate/VoiceMateBackend/production/staticfiles/images/appicon.png?token=GHSAT0AAAAAACHGGVVQSWC2KOXXCV65BL44ZR3HFBA" alt="Description of the image" width="70" height="70" />
+      <img src="static/icon.png" alt="Description of the image" width="50" height="50" />
     </a>
     <h1 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>{title}</a>
