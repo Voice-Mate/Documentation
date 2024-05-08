@@ -7,8 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/Voice-Mate",
+      "Website": "https://voicemate.nl",
+      "Status Page": "https://status.voicemate.nl",
+      "API": "https://voicemate.nl/docs",
     },
   }),
 }

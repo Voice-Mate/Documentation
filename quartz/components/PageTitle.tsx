@@ -7,9 +7,15 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
+    <div>
+    <a href={baseDir}>
+      <img src="https://raw.githubusercontent.com/Voice-Mate/VoiceMateBackend/production/staticfiles/images/appicon.png?token=GHSAT0AAAAAACHGGVVQSWC2KOXXCV65BL44ZR3HFBA" alt="Description of the image" width="70" height="70" />
+    </a>
     <h1 class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>{title}</a>
     </h1>
+    </div>
+    
   )
 }
 
