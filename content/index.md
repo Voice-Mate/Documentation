@@ -1,11 +1,11 @@
 ---
-title: Welcome to Voice Mate!
+title: Voice Mate Documentation
 ---
 
 Voice Mate is an innovative app that helps you enhance your voice communication skills. Whether you're a public speaker, presenter, or just want to improve your everyday communication, Voice Mate has you covered.
 
 ## Getting Started
-
+![[email.png]]
 To get started with Voice Mate, follow these steps:
 
 1. **Sign Up**: Visit our [Sign Up page](signup.html) to create your Voice Mate account.
