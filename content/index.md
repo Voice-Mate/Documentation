@@ -6,43 +6,24 @@ tags:
 
 
 
-Voice Mate is an innovative app that helps you enhance your voice communication skills. Whether you're a public speaker, presenter, or just want to improve your everyday communication, Voice Mate has you covered.
+Welcome to Voice Mate. Voice Mate handles your calls, whether you're to busy to answer or simply can't be bothered to answer a unknown number. Voice Mate links your phone to our AI systems that handle your calls and send you a push message with a call summary. There are several ways to get started: 
 
-## Getting Started
-![[email.png]]
-```python title="TEst"
-def add_numbers(num1, num2):
-    """
-    Adds two numbers and returns the result.
-    
-    Args:
-        num1 (int or float): The first number.
-        num2 (int or float): The second number.
-    
-    Returns:
-        int or float: The sum of num1 and num2.
-    """
-    return num1 + num2
 
-```
 
-To get started with Voice Mate, follow these steps:
+## Set up the Voice Mate app 
+> [!info] Getting Started
+> 
+> You'll need a [Account](https://voicemate.nl) to use Voice Mate
 
-1. **Sign Up**: Visit our [Sign Up page](signup.html) to create your Voice Mate account.
-2. **Explore Features**: Take a tour of Voice Mate's features on our [Features page](features.html).
-3. **Practice Sessions**: Access guided practice sessions and exercises to improve your voice on our [Practice page](practice.html).
-4. **Community**: Join our community forums to connect with other Voice Mate users and share tips and experiences on our [Community page](community.html).
+1. **Create an account at**: Visit our [Sign Up page](https://voicemate.nl) to create your Voice Mate account. For more details check [this page](signing_up.md)
+2. **Download our app**: Download the Voicemate app from your favourite  [appstore](where_to_download.md).
+3. **Set up call forwarding**: From our app you can set up  conditional call. This means you can choose which calls go to Voice Mate. See how to set this up [here page](set_up_forwarding.md).
+4. **Learn more about Voice Mate**: From here on your calls are handled by our AI. But there is plenty to explore, check our [[blog]] or learn how Voice Mate [works](how_does_voicemate_work.md) behind the scenes.  You can even see how we're doing as a company here.
 
-## Download Our App
+## Our API
+If you're tech savvy you can also interact with Voice Mate programatically. We are planning to launch Zapier and Webhooks in the near future. And already offer a fully fledged [[API]], with a [Swagger](https://voicemate.nl/docs) page. 
 
-Download the Voice Mate app today and start improving your voice communication skills wherever you go!
 
-[Download Now](https://yourappstore.com/voicemate)
+## Support
 
-## About Voice Mate
-
-Voice Mate is designed to help individuals from all backgrounds and professions develop confidence and clarity in their spoken communication. Our team is dedicated to providing you with the tools and resources you need to succeed.
-
-Ready to elevate your voice? Let's get started with Voice Mate!
-
-[Get Started Now](signup.html)
+If you have any questions feel free to browse our F.A.Q. 
