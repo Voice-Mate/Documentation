@@ -1,3 +1,10 @@
+
+---
+title: License Agreement
+tags:
+  - legal
+---
+
 # **License Agreement**
 
 **Effective Date:** 20241001

@@ -1,5 +1,5 @@
 ---
-title: Privacy
+title: Privacy Policy
 tags:
   - legal
 ---
