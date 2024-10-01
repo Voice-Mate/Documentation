@@ -3,65 +3,57 @@ title: Legal
 tags:
   - legal
 ---
-# VoiceMate Voicemail App Terms and Conditions
+## **Terms of Service for Voice Mate**
 
-## 1. Introduction
+### **1. Acceptance of Terms**
+By accessing or using the Voice Mate application (hereinafter referred to as "the Service"), you acknowledge that you have read, understood, and agree to be bound by these Terms of Service (hereinafter referred to as "the Terms"). If you do not agree to these Terms, you must not access or use the Service.
 
-Welcome to VoiceMate! These Terms and Conditions ("Terms") govern your use of the VoiceMate Voicemail App ("App"). By using our App, you agree to comply with these Terms. Please read them carefully.
+### **2. Definitions**
+For the purposes of these Terms, the following definitions apply:
+- **"Service"** refers to the Voice Mate application and any associated services provided by the Licensor.
+- **"User"** refers to any individual who accesses or uses the Service.
+- **"Voicemail"** refers to recorded audio messages left by callers when the User is unavailable to answer their phone.
+- **"Recorded Calls"** refers to any phone calls that are recorded as part of the Service, including any voicemails left by callers.
+- **"Transcription"** refers to the process of converting recorded voicemails into text format using automated services.
 
-## 2. Eligibility
+### **3. Description of Service**
+Voice Mate provides users with a voicemail service that records and transcribes calls on behalf of users when they are unavailable to answer their phone. The Service includes the following features:
+- Call routing to the Voice Mate application when a User does not answer their phone.
+- Recording of voicemails left by callers.
+- Transcription of recorded voicemails into text format for easy reading and management.
+- Notifications to users regarding missed calls and new voicemails.
 
-To use the App, you must be at least 18 years old and capable of forming a binding contract with us. By using the App, you represent and warrant that you meet these requirements.
+### **4. User Responsibilities**
+As a User of the Service, you agree to:
+- Provide accurate, current, and complete information during the registration process and to update such information as necessary to maintain its truthfulness and completeness.
+- Safeguard your account credentials and not disclose them to any third party. You are responsible for all activities that occur under your account.
+- Comply with all applicable laws and regulations when using the Service, including obtaining necessary consent from callers for recording conversations.
+- Not engage in any unauthorized use of the Service or attempt to gain unauthorized access to any part of the Service or any other accounts, computer systems, or networks connected to the Service.
 
-## 3. Payment and Fees
+### **5. Data Collection and Usage**
+Voice Mate collects and uses your personal information and recorded voicemails as described in our Privacy Policy. By using the Service, you consent to the collection, storage, and processing of your data as outlined in the Privacy Policy. We may use the collected data to provide, maintain, and improve the Service, as well as to communicate with you about your account and provide customer support.
 
-### 3.1 Credit Card Charges
+### **6. Call Recording and Transcription**
+By using the Service, you acknowledge and agree that incoming calls may be recorded and transcribed for the purpose of voicemail delivery and management. It is your responsibility to inform and obtain consent from callers before recording any conversations. Voice Mate does not actively notify callers that their conversations are being recorded as it is implied that voicemail messages are recorded; therefore, it is imperative that you comply with all applicable laws and regulations in your local jurisdiction regarding call recording and consent.
 
-By using the App, you agree to pay all charges associated with your account. Charges will be billed to your credit card on a recurring basis as specified at the time of purchase.
+### **7. User Accounts**
+To access certain features of the Service, you must create an account. You agree to:
+- Provide accurate and complete information during the account registration process.
+- Maintain the security of your password and account by using a strong password and keeping it confidential.
+- Notify us immediately of any unauthorized use of your account or any other breach of security.
+- Be responsible for all activities that occur under your account and ensure that you log out of your account at the end of each session.
 
-### 3.2 Telecom Provider Fees
+### **8. Payment Terms**
+If applicable, you agree to pay all fees associated with your use of the Service as specified during the registration process or within the app. This includes any charges incurred from your telephone carrier for routing calls to Voice Mate's voicemail service. Payment details must be provided to access premium features or services, if available. All fees are non-refundable, and you are responsible for any applicable taxes associated with your use of the Service. Voice Mate reserves the right to modify its pricing structure at any time, provided that you will be notified of any changes before they take effect.
 
-Please be aware that additional fees from your telecom provider may apply for using the App. These fees are not controlled by VoiceMate and are your responsibility.
+### **9. Termination**
+Voice Mate reserves the right to terminate or suspend your access to the Service, without prior notice or liability, for any reason, including if you breach these Terms. Upon termination, your right to use the Service will immediately cease. Any data associated with your account may be deleted, and you will not be entitled to any compensation for such data deletion. You may also terminate your account at any time by contacting us.
 
-## 4. Fair Use Policy
+### **10. Intellectual Property**
+All content, trademarks, and other intellectual property associated with the Service, including but not limited to the Voice Mate application, logos, designs, text, and software, are owned by or licensed to Voice Mate and are protected by applicable intellectual property laws. You are granted a limited, non-exclusive, non-transferable license to use the Service for personal and non-commercial purposes. You may not reproduce, modify, distribute, or create derivative works based on any part of the Service without prior written consent from Voice Mate.
 
-### 4.1 Acceptable Use
+### **11. Limitation of Liability**
+To the fullest extent permitted by law, Voice Mate shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of the Service. This includes, but is not limited to, damages for loss of profits, data, or other intangible losses, even if Voice Mate has been advised of the possibility of such damages. Furthermore, Voice Mate shall not be liable for any statements, responses, or actions made by the AI during calls, including but not limited to any misinformation or misunderstandings that may occur. Your use of the Service is at your own risk.
 
-You agree to use the App in accordance with all applicable laws and regulations. The following activities are strictly prohibited:
-
-- Engaging in illegal activities
-- Sending spam or unsolicited messages
-- Using the App to harass, threaten, or harm others
-
-### 4.2 Account Termination
-
-We reserve the right to terminate or suspend your account immediately, without prior notice, if you fail to comply with these Terms or our Fair Use Policy. Any remaining balance on your account will not be refunded in the event of termination due to misuse.
-
-## 5. Privacy
-
-Your privacy is important to us. Please refer to our [Privacy Policy](#) for information on how we collect, use, and protect your personal data.
-
-## 6. Limitation of Liability
-
-To the fullest extent permitted by law, VoiceMate shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
-
-- Your use or inability to use the App
-- Any unauthorized access to or use of our servers and/or any personal information stored therein
-- Any bugs, viruses, trojan horses, or the like that may be transmitted to or through our App by any third party
-- Any errors or omissions in any content or for any loss or damage incurred as a result of your use of any content made available through the App
-
-## 7. Changes to the Terms
-
-We may modify these Terms at any time. We will notify you of any changes by posting the new Terms on the App. You are advised to review these Terms periodically for any changes. Changes to these Terms are effective when they are posted on this page.
-
-## 8. Governing Law
-
-These Terms shall be governed and construed in accordance with the laws of the Netherlands, without regard to its conflict of law provisions.
-
-## 9. Contact Us
-
-If you have any questions about these Terms, please contact us at [hello@voicemate.nl](mailto:hello@voicemate.nl).
-
----
-
-*This document was last updated on July 21, 2024.*
+### **12. Indemnification**
+You agree to indemnify, defend, and hold harmless Voice Mate, its affiliates, and their respective officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising out of or in any way connected with your access to or use of the Service, your violation of these Terms, or your infringement of any intellectual property or other rights of any person or entity.
