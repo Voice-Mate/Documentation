@@ -6,11 +6,14 @@ tags:
 
 # Call Forwarding
 
-You can enable call forwarding by toggling it from the **'Menu'** tab in the app, which will set up the forwarding to your dedicated Voice Mate phone number when you don't pick up the phone. Additionally, you can manually set up call forwarding by dialing **`**61#[receipientnumber]`** followed by the number you wish to forward calls to.
+You can enable call forwarding by toggling it from within the app, which will set up the forwarding to your dedicated Voice Mate phone number when you don't pick up the phone. Additionally, you can manually set up call forwarding by dialing **`**61#[receipientnumber]`** followed by the number you wish to forward calls to.
 
 ### What is Call Forwarding?
 
 Call forwarding allows you to redirect incoming calls to another phone number. This feature can be helpful when you're traveling, unavailable, or simply want to manage your calls better. Instead of missing calls, you can forward them to another device, service, or—like with **Voice Mate**—an AI voicemail service that takes care of your calls and voicemails.
+
+### Why do I have to call this strange phone number from within the app? 
+The reason you need to dial these shortcodes and use a special phone number is that call forwarding is typically set up through your mobile carrier. Voice Mate provides you with a dedicated number that acts as a "gateway" to its AI voicemail service. By dialing the appropriate shortcode with this number, you're instructing your carrier to forward your incoming calls to Voice Mate. While this might seem unusual at first, it's the most efficient way to route your calls directly to Voice Mate.
 
 ### How Voice Mate Enhances Call Forwarding
 
@@ -20,10 +23,12 @@ When you forward your calls to Voice Mate, the AI voicemail service will answer 
 
 Most mobile carriers offer shortcodes for enabling call forwarding, and you can easily use these codes to forward your calls to Voice Mate. Below are the shortcodes to activate different types of forwarding:
 
+
+# Custom Forwarding rules
 #### 1. **Forward All Calls to Voice Mate**
 To forward all calls to Voice Mate, dial: 
 - **`**21*<Voice Mate number>#`** 
-  (Replace `<Voice Mate number>` with the number Voice Mate provided.)
+  (Replace `<Voice Mate number>` with the number Voice Mate provided, you can see this number in your app)
   
 To deactivate this feature, dial: 
 - **`##21#`**
