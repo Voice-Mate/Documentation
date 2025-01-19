@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       GitHub: "https://github.com/Voice-Mate",
       "Website": "https://voicemate.nl",
       "Status Page": "https://status.voicemate.nl",
-      "API": "https://voicemate.nl/docs",
+      "API": "https://voicemate.nl/api",
     },
   }),
 }
