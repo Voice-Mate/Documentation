@@ -28,11 +28,14 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Check if build output exists
+        run: ls -la public  # Debugging step to verify if the build output exists
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
- 
+          name: github-pages  # Ensure the artifact name matches what deploy-pages expects
+
   deploy:
     needs: build
     environment:
