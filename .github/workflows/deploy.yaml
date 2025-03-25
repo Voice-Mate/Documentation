@@ -30,7 +30,9 @@ jobs:
         run: npx quartz build
       - name: Check if build output exists
         run: ls -la public # Debugging step to verify if the build output exists
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public # Ensure this is the correct output directory
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
-        with:
-          artifact_name: public # Deploy directly from the build output
