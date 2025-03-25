@@ -17,10 +17,13 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-22.04
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 18
@@ -29,10 +32,13 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Check if build output exists
-        run: ls -la public # Debugging step to verify if the build output exists
+        run: ls -la public
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public # Ensure this is the correct output directory
+          path: public
+          name: github-pages # Explicitly named
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages # Explicit reference
