@@ -9,16 +9,13 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: read # Add this to allow action access
-  checks: read # Add this to allow read access to checks
-  deployments: write #
 
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -33,20 +30,7 @@ jobs:
         run: npx quartz build
       - name: Check if build output exists
         run: ls -la public # Debugging step to verify if the build output exists
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public # Make sure we upload the correct directory
-
-  deploy:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact_name: github-pages # Explicitly reference the uploaded artifact
+          artifact_name: public # Deploy directly from the build output
