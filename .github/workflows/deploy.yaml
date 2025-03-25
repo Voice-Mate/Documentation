@@ -1,19 +1,19 @@
 name: Deploy Quartz site to GitHub Pages
- 
+
 on:
   push:
     branches:
       - v4
- 
+
 permissions:
   contents: read
   pages: write
   id-token: write
- 
+
 concurrency:
   group: "pages"
   cancel-in-progress: false
- 
+
 jobs:
   build:
     runs-on: ubuntu-22.04
@@ -29,12 +29,14 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Check if build output exists
-        run: ls -la public  # Debugging step to verify if the build output exists
+        run: ls -la public # Debugging step to verify if the build output exists
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
         with:
-          path: public
-          name: github-pages  # Ensure the artifact name matches what deploy-pages expects
+          artifact_name: github-pages
 
   deploy:
     needs: build
