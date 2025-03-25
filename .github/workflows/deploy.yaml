@@ -9,6 +9,9 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: read # Add this to allow action access
+  checks: read # Add this to allow read access to checks
+  deployments: write #
 
 concurrency:
   group: "pages"
