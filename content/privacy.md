@@ -17,11 +17,11 @@ All recorded voicemails are securely stored on our servers and are accessible to
 In order to provide our voicemail services, Voice Mate collects the following personal information:
 
 - **User Contact Information**: This includes the user’s name, phone number, and email address. This information is used to identify user accounts, route calls to our voicemail service, and notify users when they have missed calls or received new voicemail messages.
-  
+
 - **Caller Information**: Voice Mate may capture the caller's phone number as part of the voicemail recording. This allows users to see who left the voicemail and return the call if necessary.
-  
+
 - **User Settings and Preferences**: We collect and store user settings, such as notification preferences, to personalize and improve the user experience.
-  
+
 - **Metadata**: Metadata such as call timestamps, call duration, and device identifiers may be collected to facilitate call routing, optimize service performance, and improve troubleshooting.
 
 ### **1.3 Audio Data**
@@ -33,7 +33,7 @@ The audio recordings are securely stored and may be encrypted to ensure the prot
 We may collect data related to the use of the Voice Mate app, including:
 
 - **App Usage Information**: This includes information such as how often the app is used, which features are accessed, and how users interact with the app. This data helps us understand user behavior and preferences to improve the app’s functionality and user experience.
-  
+
 - **Device Information**: We may collect information about the device you use to access Voice Mate, including the device model, operating system, and unique device identifiers. This information helps us ensure compatibility and optimize the app’s performance on different devices.
 
 ### **1.5 Location Data**
@@ -46,6 +46,8 @@ Cookies may also be used to track user sessions, facilitating features such as a
 
 ### **1.7 Third-Party Data Collection**
 Voice Mate may integrate third-party services, such as cloud providers, analytics tools, or AI-powered transcription services. These third parties may collect or process limited user data to enable Voice Mate’s functionality or improve performance. However, Voice Mate ensures that any third-party data collection complies with industry security standards and privacy regulations, and we only share the minimum amount of data necessary for service operation.
+
+Voice Mate may also be used to connect to third parties to update your CRM or calendar with callback events or to notify other services you received a voicemail. These 3rd parties will only receive the minimum amount of data required to perform their duty and the data collected from these third parties will not be used for anything other than handling your call.
 
 ### **1.8 Consent for Call Recording**
 By using Voice Mate, users agree to have their incoming calls routed and recorded when unanswered. It is important to note that Voice Mate does not actively notify callers of the recording, so users are responsible for obtaining consent from their callers if required by applicable laws. Users should check their local regulations to ensure compliance with any legal requirements regarding call recording.
@@ -85,8 +87,8 @@ Voice Mate utilizes secure cloud services, such as Amazon Web Services (AWS), to
 ### **3.2 Retention Period**
 Voice Mate retains recorded voicemails and personal information for as long as necessary to fulfill the purposes outlined in this privacy policy or as required by applicable laws. The retention periods are defined as follows:
 
-- **Voicemail Recordings**: Recorded voicemails are retained until you cancel your Voice Mate account. After this period, the voicemails are automatically deleted from our servers to protect user privacy and manage data storage effectively. 
-  
+- **Voicemail Recordings**: Recorded voicemails are retained until you cancel your Voice Mate account. After this period, the voicemails are automatically deleted from our servers to protect user privacy and manage data storage effectively.
+
 - **Personal Information**: User personal data, such as contact information, will be retained as long as the user maintains an active account with Voice Mate. If a user chooses to delete their account or becomes inactive for an extended period, their personal information will be removed from our systems after a period of 24 hours, unless otherwise required by law.
 
 - **Legal Obligations**: In some cases, Voice Mate may retain data for longer periods to comply with legal obligations or to protect our rights and interests. This may include data retention for compliance with tax, legal, or regulatory requirements.
@@ -110,7 +112,8 @@ Voice Mate may share user data with select third-party service providers to enha
 
 - **Payment Processing**: For handling payment transactions, Voice Mate uses **Stripe**. Stripe processes user payment information in accordance with their privacy policy and industry standards for payment security.
 
-- **Data Management**: We utilize **RedisLabs** for data management and caching purposes. RedisLabs may process user data to enhance the performance and responsiveness of our app.
+- **Google Calendar**: For adding callback events to your calendar and for the AI voice to find your next available slot to call back. Data we collect through Google Workspace APIs are not used to develop, improve, or train generalized AI and/or ML models or used in any other way than to handle the calls.
+
 
 We do not sell or rent user data to third parties for marketing or promotional purposes.
 
@@ -190,7 +193,7 @@ Voice Mate recognizes the importance of obtaining consent from all parties invol
 
 - **Compliance with Laws**: Voice Mate adheres to applicable laws and regulations regarding call recording and consent. Users are advised to familiarize themselves with the legal requirements concerning call recording in their jurisdiction to ensure compliance when using the app.
 
-- **Withdrawal of Consent**: If a caller does not wish for their conversation to be recorded, they can simply hang up the call before speaking. 
+- **Withdrawal of Consent**: If a caller does not wish for their conversation to be recorded, they can simply hang up the call before speaking.
 
 
 ## **Part 8: Cookies and Tracking Technologies**
@@ -200,23 +203,23 @@ Voice Mate does not utilize cookies or similar tracking technologies that store 
 
 - **API Keys and JWT Tokens**: Voice Mate relies on API keys and JSON Web Tokens (JWT) for authentication and secure data exchange between the app and our servers. This method ensures that user sessions are managed securely without the need for traditional cookies. User activity is tracked through these secure tokens, which do not store personally identifiable information.
 
-- **Use of Mixpanel**: To gain insights into user interactions and improve our services, Voice Mate utilizes Mixpanel, a third-party analytics service. Mixpanel allows us to analyze user behavior within the app, helping us understand how users engage with our features. 
+- **Use of Mixpanel**: To gain insights into user interactions and improve our services, Voice Mate utilizes Mixpanel, a third-party analytics service. Mixpanel allows us to analyze user behavior within the app, helping us understand how users engage with our features.
 
   - **Data Collection**: Mixpanel collects data on user actions, such as call recordings, app usage patterns, and feature interactions. This information helps us identify trends and improve the user experience.
 
-  - **Profile Deletion**: Users have control over their Mixpanel profiles. When a user deletes their Voice Mate account, their Mixpanel profile is also deleted, ensuring that all associated analytics data is removed in compliance with our privacy policy. 
+  - **Profile Deletion**: Users have control over their Mixpanel profiles. When a user deletes their Voice Mate account, their Mixpanel profile is also deleted, ensuring that all associated analytics data is removed in compliance with our privacy policy.
 
 ### **8.2 User Control Over Tracking**
 Although Voice Mate does not use cookies, users have the right to control their data and analytics preferences:
 
-- **Privacy Settings**: Users are encouraged to review their privacy settings within the Voice Mate app to understand what data is being collected and how it is used. 
+- **Privacy Settings**: Users are encouraged to review their privacy settings within the Voice Mate app to understand what data is being collected and how it is used.
 
 
 
 ## **Part 9: Changes to Policy**
 
 ### **9.1 Policy Updates**
-Voice Mate is committed to maintaining transparency regarding its privacy practices. As such, we may update this privacy policy from time to time to reflect changes in our services, legal requirements, or operational practices. 
+Voice Mate is committed to maintaining transparency regarding its privacy practices. As such, we may update this privacy policy from time to time to reflect changes in our services, legal requirements, or operational practices.
 
 - **Notification of Changes**: Users will be informed of any significant changes to this privacy policy in the following ways:
   - **Email Notifications**: If users have opted to receive communications from Voice Mate, we will send an email detailing the updates made to the privacy policy. This email will include a summary of the changes and a link to the full policy for review.
