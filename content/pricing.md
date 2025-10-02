@@ -12,8 +12,8 @@ Voice Mate is a powerful AI-driven voicemail assistant designed to handle your c
 
 We offer simple, flexible plans depending on your needs:
 
-- **Monthly Plan: $7.99**  
-- **Annual Plan: $59.00** (best value — saves you over 35%)  
+- **Monthly Plan: $9.99**  
+- **Annual Plan: $74.99** (best value — saves you over 38%)  
 
 Both plans include all core features, voicemail transcription, and unlimited email integrations at no extra cost.  
 
@@ -34,14 +34,14 @@ Here’s an example of how usage fees work with the subscription:
 
 - A user receives **25 calls**, each lasting **1 minute (60 seconds)**.  
 - Total call duration: **25 × 60 = 1,500 seconds**.  
-- Usage cost: **1,500 × $0.004 = $6.00**.  
-- Monthly base subscription: **$7.99**.  
-- **Total monthly charge: $7.99 + $6.00 = $13.99**.  
+- Usage cost: **3,300 × $0.004 = $6.00** (keep in mind first 30 minutes (1800 seconds) are on us).  
+- Monthly base subscription: **$9.99**.  
+- **Total monthly charge: $9.99 + $6.00 = $15.99**.  
 
 If you cancel halfway through the month:  
-- Subscription is prorated to **$3.99**.  
+- Subscription is prorated to **$4.99**.  
 - Usage fees remain at **$6.00**.  
-- **Total charge: $9.99** (above the minimum charge).  
+- **Total charge: $10.99** (above the minimum charge).  
 
 ## Additional Considerations
 
